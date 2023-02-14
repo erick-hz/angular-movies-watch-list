@@ -1,1 +1,8 @@
-<p>tool-bar works!</p>
+<div class="tool-bar-container">
+  <div class="nav-container">
+    <app-button *ngFor="let route of routes" [text]="route" (btnClick)="changeRoute(route)"></app-button>
+  </div>
+  <div class="page-title">
+    <h3>{{pageTitle}}</h3>
+  </div>
+</div>
