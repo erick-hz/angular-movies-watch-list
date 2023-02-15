@@ -27,4 +27,11 @@ export class WatchListComponent implements OnInit {
     }
   }
 
+  onFavClick(movies: Movies): void {
+  }
+
+  onWatchedClick(movies: Movies): void {
+
+  }
+
 }
