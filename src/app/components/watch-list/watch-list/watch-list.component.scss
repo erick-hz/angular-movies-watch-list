@@ -1,5 +1,7 @@
 .watch-list-wrapper {
-  margin-top: 65px; // css variable
+  background-image: url("../../../../assets/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 100%;
   width: 100%;
   padding: 20px;
@@ -9,6 +11,9 @@
   align-items: center;
   // justify-content: space-around;
   gap: 25px;
+  h3 {
+    margin-top: 80px;
+  }
 
   .to-watch {
     display: flex;
@@ -16,6 +21,6 @@
     flex-wrap: wrap;
     align-items: center;
     // justify-content: space-around;
-    gap: 15px;
+    gap: 50px;
   }
 }

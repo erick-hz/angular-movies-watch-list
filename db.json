@@ -3,52 +3,88 @@
     {
       "id": 1,
       "title": "Avengers 4",
-      "image": "avengers-4.jpg"
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.0dESWwq_Shus7R3JX9pMUwHaKw%26pid%3DApi&f=1&ipt=b06487f9755d071486d63562526f6fd907198a100d375e7c634f66f2196ae569&ipo=images"
     },
     {
       "id": 2,
       "title": "Avatar 2",
-      "image": "avatar-2.jpg"
+      "image": "https://wallpapercave.com/wp/wp11484135.jpg",
+      "isWatched": true,
+      "isFav": false
     },
     {
       "id": 3,
       "title": "Black widow",
-      "image": "blackwidow.jpg"
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.comicbook.com%2F2020%2F03%2Fblack-widow-poster-marvel-1210170.jpeg%3Fauto%3Dwebp%26width%3D810%26height%3D1200%26crop%3D810%3A1200%2Csmart&f=1&nofb=1&ipt=c9e41ec5d39079d67752faf17e150599f6be489f7377645563634bdd536d4e7e&ipo=images",
+      "isWatched": true,
+      "isFav": false
     },
     {
       "id": 4,
       "title": "Matrix",
-      "image": "matrix.jpg"
+      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.kurzweilai.net%2Fimages%2FMatrix-Reloaded-poster.jpg&f=1&nofb=1&ipt=6c1533c02a115791f0df29098b0fa30ec1c9325482cab7d3dc945d70c9b39415&ipo=images",
+      "isFav": true
     },
     {
       "id": 5,
       "title": "Army of Thieves",
-      "image": "army-of-thieves.jpg"
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsportshub.cbsistatic.com%2Fi%2F2021%2F10%2F01%2F4a803804-062c-4f0d-8268-0ed7b76fa1c1%2Farmy-of-thieves-poster.jpg%3Fauto%3Dwebp%26width%3D928%26height%3D1374%26crop%3D0.675%3A1%2Csmart&f=1&nofb=1&ipt=1ae8325f98e260ca132f7a5b5d49a9f3318359c132a8f8392d050538f39833fb&ipo=images"
     },
     {
       "id": 6,
       "title": "Finch",
-      "image": "finch.jpg"
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FjKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg&f=1&nofb=1&ipt=16259f707f80b3cd76122e069b0bd57bd69bb840fbe0fe854d41b14f788ccfcc&ipo=images"
     },
     {
       "id": 7,
       "title": "Light Years",
-      "image": "light-years.jpg"
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.newdvdreleasedates.com%2Fimages%2Fmovies%2Flightyear-2022.jpg&f=1&nofb=1&ipt=e315b1c502150aca24e90140cf41b62172ca9f9038630bf4c37d80f9a862b92d&ipo=images"
     },
     {
       "id": 8,
       "title": "No Time To Die",
-      "image": "no-time-to-die.jpg"
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs.yimg.com%2Fuu%2Fapi%2Fres%2F1.2%2FoKY3mKjlLApvLYTG0d1e0A--~B%2FaD0zMDAwO3c9MjAyNTtzbT0xO2FwcGlkPXl0YWNoeW9u%2Fhttps%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2020-09%2Fa7230c52-f8c1-11ea-abff-2457eb7eaea0&f=1&nofb=1&ipt=2d84c9228b7e796514961fed23c759d5a0d9a13cb81b030fc316d9de3de8af38&ipo=images"
     },
     {
       "id": 9,
       "title": "Super Mario",
-      "image": "super-mario.jpg"
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthedisneydrivenlife.com%2Fwp-content%2Fuploads%2F2023%2F02%2Fsuper-mario-bros-movie-poster-scaled.jpg&f=1&nofb=1&ipt=4c396401a790a5bd375d0b63816a6b9c29f5ebc41b212fadb99c71b864bc8ec4&ipo=images"
     },
     {
       "id": 10,
       "title": "Venom",
-      "image": "venom.jpg"
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FgFlaCU0HPlbho3mpgFRuMKKvAlo.jpg&f=1&nofb=1&ipt=2a89ea7235294a9e9e16eac186571dc2d3b9f24bd7abdf0a07727841e4d72669&ipo=images"
+    },
+    {
+      "id": 11,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FgHPtCmMeDqjaGqnMrWGDmD3nKd2.jpg&f=1&nofb=1&ipt=d8077031c3e5e2a1e9a87906ea38721c48edc104af92bcb2c826cee581870d3d&ipo=images"
+    },
+    {
+      "id": 12,
+      "title": "HARRY POTTER AND THE CHAMBER OF SECRETS",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F42%2Fde%2F3e%2F42de3ec6745614f3d8796ce30467746b.jpg&f=1&nofb=1&ipt=c636612fedac43c4425b0e40d8792980c14196037cee5aece81807ffdf31497e&ipo=images"
+    },
+    {
+      "id": 13,
+      "title": "Harry Potter and Prisoner of Azkaban",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.bunnycdn.ru%2Fi%2Fcache%2Fimages%2Fa%2Fa6%2Fa6c1579d2d28a2db81909ac003f07aa3.jpg-w380&f=1&nofb=1&ipt=2252b55e2ac5713b42e97b885d76111327be66f52467ee1a26b7f9196c1c80c7&ipo=images",
+      "isWatched": false,
+      "isFav": false
+    },
+    {
+      "id": 14,
+      "title": "Harry Potter and the goblet of fire",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FrmSDLpObFgPnybpi9aft3jPYT7E.jpg&f=1&nofb=1&ipt=8903f4a8218920c922cc4637bc2ca5264782e0868e2ae1032f4f9ea1215b1c8b&ipo=images",
+      "isWatched": false,
+      "isFav": false
+    },
+    {
+      "id": 15,
+      "title": "Harry Potter and order of the phoenix",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.moviesrankings.com%2Ft%2Fp%2Fw1280%2FtIf9aUyNljda9MG1pjlOLHCZ3b0.jpg&f=1&nofb=1&ipt=87ab84168a23cf14f50bb4303a2e63e0990aab79f73f8a06b3164945a02975ce&ipo=images",
+      "isWatched": false,
+      "isFav": false
     }
   ],
   "favourites": [],
